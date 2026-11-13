@@ -1,0 +1,713 @@
+[
+  {
+    "ticker": "NVDA",
+    "cik": "0001045810",
+    "form": "10-Q",
+    "filing_date": "2026-08-26",
+    "report_date": "2026-07-26",
+    "accession": "0001045810-26-000075",
+    "primary_doc": "nvda-20260726.htm"
+  },
+  {
+    "ticker": "NVDA",
+    "cik": "0001045810",
+    "form": "10-Q",
+    "filing_date": "2026-05-20",
+    "report_date": "2026-04-26",
+    "accession": "0001045810-26-000052",
+    "primary_doc": "nvda-20260426.htm"
+  },
+  {
+    "ticker": "NVDA",
+    "cik": "0001045810",
+    "form": "10-K",
+    "filing_date": "2026-02-25",
+    "report_date": "2026-01-25",
+    "accession": "0001045810-26-000021",
+    "primary_doc": "nvda-20260125.htm"
+  },
+  {
+    "ticker": "NVDA",
+    "cik": "0001045810",
+    "form": "10-Q",
+    "filing_date": "2025-11-19",
+    "report_date": "2025-10-26",
+    "accession": "0001045810-25-000230",
+    "primary_doc": "nvda-20251026.htm"
+  },
+  {
+    "ticker": "NVDA",
+    "cik": "0001045810",
+    "form": "10-Q",
+    "filing_date": "2025-08-27",
+    "report_date": "2025-07-27",
+    "accession": "0001045810-25-000209",
+    "primary_doc": "nvda-20250727.htm"
+  },
+  {
+    "ticker": "NVDA",
+    "cik": "0001045810",
+    "form": "10-Q",
+    "filing_date": "2025-05-28",
+    "report_date": "2025-04-27",
+    "accession": "0001045810-25-000116",
+    "primary_doc": "nvda-20250427.htm"
+  },
+  {
+    "ticker": "NVDA",
+    "cik": "0001045810",
+    "form": "10-K",
+    "filing_date": "2025-02-26",
+    "report_date": "2025-01-26",
+    "accession": "0001045810-25-000023",
+    "primary_doc": "nvda-20250126.htm"
+  },
+  {
+    "ticker": "NVDA",
+    "cik": "0001045810",
+    "form": "10-Q",
+    "filing_date": "2024-11-20",
+    "report_date": "2024-10-27",
+    "accession": "0001045810-24-000316",
+    "primary_doc": "nvda-20241027.htm"
+  },
+  {
+    "ticker": "NVDA",
+    "cik": "0001045810",
+    "form": "10-Q",
+    "filing_date": "2024-08-28",
+    "report_date": "2024-07-28",
+    "accession": "0001045810-24-000264",
+    "primary_doc": "nvda-20240728.htm"
+  },
+  {
+    "ticker": "NVDA",
+    "cik": "0001045810",
+    "form": "10-Q",
+    "filing_date": "2024-05-29",
+    "report_date": "2024-04-28",
+    "accession": "0001045810-24-000124",
+    "primary_doc": "nvda-20240428.htm"
+  },
+  {
+    "ticker": "NVDA",
+    "cik": "0001045810",
+    "form": "10-K",
+    "filing_date": "2024-02-21",
+    "report_date": "2024-01-28",
+    "accession": "0001045810-24-000029",
+    "primary_doc": "nvda-20240128.htm"
+  },
+  {
+    "ticker": "NVDA",
+    "cik": "0001045810",
+    "form": "10-Q",
+    "filing_date": "2023-11-21",
+    "report_date": "2023-10-29",
+    "accession": "0001045810-23-000227",
+    "primary_doc": "nvda-20231029.htm"
+  },
+  {
+    "ticker": "NVDA",
+    "cik": "0001045810",
+    "form": "10-Q",
+    "filing_date": "2023-08-28",
+    "report_date": "2023-07-30",
+    "accession": "0001045810-23-000175",
+    "primary_doc": "nvda-20230730.htm"
+  },
+  {
+    "ticker": "NVDA",
+    "cik": "0001045810",
+    "form": "10-Q",
+    "filing_date": "2023-05-26",
+    "report_date": "2023-04-30",
+    "accession": "0001045810-23-000093",
+    "primary_doc": "nvda-20230430.htm"
+  },
+  {
+    "ticker": "NVDA",
+    "cik": "0001045810",
+    "form": "10-K",
+    "filing_date": "2023-02-24",
+    "report_date": "2023-01-29",
+    "accession": "0001045810-23-000017",
+    "primary_doc": "nvda-20230129.htm"
+  },
+  {
+    "ticker": "NVDA",
+    "cik": "0001045810",
+    "form": "10-Q",
+    "filing_date": "2022-11-18",
+    "report_date": "2022-10-30",
+    "accession": "0001045810-22-000166",
+    "primary_doc": "nvda-20221030.htm"
+  },
+  {
+    "ticker": "NVDA",
+    "cik": "0001045810",
+    "form": "10-Q",
+    "filing_date": "2022-08-31",
+    "report_date": "2022-07-31",
+    "accession": "0001045810-22-000147",
+    "primary_doc": "nvda-20220731.htm"
+  },
+  {
+    "ticker": "NVDA",
+    "cik": "0001045810",
+    "form": "10-Q",
+    "filing_date": "2022-05-27",
+    "report_date": "2022-05-01",
+    "accession": "0001045810-22-000079",
+    "primary_doc": "nvda-20220501.htm"
+  },
+  {
+    "ticker": "NVDA",
+    "cik": "0001045810",
+    "form": "10-K",
+    "filing_date": "2022-03-18",
+    "report_date": "2022-01-30",
+    "accession": "0001045810-22-000036",
+    "primary_doc": "nvda-20220130.htm"
+  },
+  {
+    "ticker": "AMD",
+    "cik": "0000002488",
+    "form": "10-Q",
+    "filing_date": "2026-11-04",
+    "report_date": "2026-09-26",
+    "accession": "0000002488-26-000191",
+    "primary_doc": "amd-20260926.htm"
+  },
+  {
+    "ticker": "AMD",
+    "cik": "0000002488",
+    "form": "10-Q",
+    "filing_date": "2026-08-05",
+    "report_date": "2026-06-27",
+    "accession": "0000002488-26-000123",
+    "primary_doc": "amd-20260627.htm"
+  },
+  {
+    "ticker": "AMD",
+    "cik": "0000002488",
+    "form": "10-Q",
+    "filing_date": "2026-05-06",
+    "report_date": "2026-03-28",
+    "accession": "0000002488-26-000076",
+    "primary_doc": "amd-20260328.htm"
+  },
+  {
+    "ticker": "AMD",
+    "cik": "0000002488",
+    "form": "10-K",
+    "filing_date": "2026-02-04",
+    "report_date": "2025-12-27",
+    "accession": "0000002488-26-000018",
+    "primary_doc": "amd-20251227.htm"
+  },
+  {
+    "ticker": "AMD",
+    "cik": "0000002488",
+    "form": "10-Q",
+    "filing_date": "2025-11-05",
+    "report_date": "2025-09-27",
+    "accession": "0000002488-25-000166",
+    "primary_doc": "amd-20250927.htm"
+  },
+  {
+    "ticker": "AMD",
+    "cik": "0000002488",
+    "form": "10-Q",
+    "filing_date": "2025-08-06",
+    "report_date": "2025-06-28",
+    "accession": "0000002488-25-000108",
+    "primary_doc": "amd-20250628.htm"
+  },
+  {
+    "ticker": "AMD",
+    "cik": "0000002488",
+    "form": "10-Q",
+    "filing_date": "2025-05-07",
+    "report_date": "2025-03-29",
+    "accession": "0000002488-25-000047",
+    "primary_doc": "amd-20250329.htm"
+  },
+  {
+    "ticker": "AMD",
+    "cik": "0000002488",
+    "form": "10-K",
+    "filing_date": "2025-02-05",
+    "report_date": "2024-12-28",
+    "accession": "0000002488-25-000012",
+    "primary_doc": "amd-20241228.htm"
+  },
+  {
+    "ticker": "AMD",
+    "cik": "0000002488",
+    "form": "10-Q",
+    "filing_date": "2024-10-30",
+    "report_date": "2024-09-28",
+    "accession": "0000002488-24-000163",
+    "primary_doc": "amd-20240928.htm"
+  },
+  {
+    "ticker": "AMD",
+    "cik": "0000002488",
+    "form": "10-Q",
+    "filing_date": "2024-07-31",
+    "report_date": "2024-06-29",
+    "accession": "0000002488-24-000123",
+    "primary_doc": "amd-20240629.htm"
+  },
+  {
+    "ticker": "AMD",
+    "cik": "0000002488",
+    "form": "10-Q",
+    "filing_date": "2024-05-01",
+    "report_date": "2024-03-30",
+    "accession": "0000002488-24-000056",
+    "primary_doc": "amd-20240330.htm"
+  },
+  {
+    "ticker": "AMD",
+    "cik": "0000002488",
+    "form": "10-K",
+    "filing_date": "2024-01-31",
+    "report_date": "2023-12-30",
+    "accession": "0000002488-24-000012",
+    "primary_doc": "amd-20231230.htm"
+  },
+  {
+    "ticker": "AMD",
+    "cik": "0000002488",
+    "form": "10-Q",
+    "filing_date": "2023-11-01",
+    "report_date": "2023-09-30",
+    "accession": "0000002488-23-000195",
+    "primary_doc": "amd-20230930.htm"
+  },
+  {
+    "ticker": "AMD",
+    "cik": "0000002488",
+    "form": "10-Q",
+    "filing_date": "2023-08-02",
+    "report_date": "2023-07-01",
+    "accession": "0000002488-23-000139",
+    "primary_doc": "amd-20230701.htm"
+  },
+  {
+    "ticker": "AMD",
+    "cik": "0000002488",
+    "form": "10-Q",
+    "filing_date": "2023-05-03",
+    "report_date": "2023-04-01",
+    "accession": "0000002488-23-000076",
+    "primary_doc": "amd-20230401.htm"
+  },
+  {
+    "ticker": "AMD",
+    "cik": "0000002488",
+    "form": "10-K",
+    "filing_date": "2023-02-27",
+    "report_date": "2022-12-31",
+    "accession": "0000002488-23-000047",
+    "primary_doc": "amd-20221231.htm"
+  },
+  {
+    "ticker": "AMD",
+    "cik": "0000002488",
+    "form": "10-Q",
+    "filing_date": "2022-11-02",
+    "report_date": "2022-09-24",
+    "accession": "0000002488-22-000170",
+    "primary_doc": "amd-20220924.htm"
+  },
+  {
+    "ticker": "AMD",
+    "cik": "0000002488",
+    "form": "10-Q",
+    "filing_date": "2022-08-03",
+    "report_date": "2022-06-25",
+    "accession": "0000002488-22-000123",
+    "primary_doc": "amd-20220625.htm"
+  },
+  {
+    "ticker": "AMD",
+    "cik": "0000002488",
+    "form": "10-Q",
+    "filing_date": "2022-05-04",
+    "report_date": "2022-03-26",
+    "accession": "0000002488-22-000078",
+    "primary_doc": "amd-20220326.htm"
+  },
+  {
+    "ticker": "AMD",
+    "cik": "0000002488",
+    "form": "10-K",
+    "filing_date": "2022-02-03",
+    "report_date": "2021-12-25",
+    "accession": "0000002488-22-000016",
+    "primary_doc": "amd-20211225.htm"
+  },
+  {
+    "ticker": "INTC",
+    "cik": "0000050863",
+    "form": "10-Q",
+    "filing_date": "2026-10-30",
+    "report_date": "2026-09-26",
+    "accession": "0000050863-26-000191",
+    "primary_doc": "intc-20260926.htm"
+  },
+  {
+    "ticker": "INTC",
+    "cik": "0000050863",
+    "form": "10-Q",
+    "filing_date": "2026-07-24",
+    "report_date": "2026-06-27",
+    "accession": "0000050863-26-000157",
+    "primary_doc": "intc-20260627.htm"
+  },
+  {
+    "ticker": "INTC",
+    "cik": "0000050863",
+    "form": "10-Q",
+    "filing_date": "2026-04-24",
+    "report_date": "2026-03-28",
+    "accession": "0000050863-26-000079",
+    "primary_doc": "intc-20260328.htm"
+  },
+  {
+    "ticker": "INTC",
+    "cik": "0000050863",
+    "form": "10-K",
+    "filing_date": "2026-01-23",
+    "report_date": "2025-12-27",
+    "accession": "0000050863-26-000011",
+    "primary_doc": "intc-20251227.htm"
+  },
+  {
+    "ticker": "INTC",
+    "cik": "0000050863",
+    "form": "10-Q",
+    "filing_date": "2025-11-06",
+    "report_date": "2025-09-27",
+    "accession": "0000050863-25-000179",
+    "primary_doc": "intc-20250927.htm"
+  },
+  {
+    "ticker": "INTC",
+    "cik": "0000050863",
+    "form": "10-Q",
+    "filing_date": "2025-07-24",
+    "report_date": "2025-06-28",
+    "accession": "0000050863-25-000109",
+    "primary_doc": "intc-20250628.htm"
+  },
+  {
+    "ticker": "INTC",
+    "cik": "0000050863",
+    "form": "10-Q",
+    "filing_date": "2025-04-25",
+    "report_date": "2025-03-29",
+    "accession": "0000050863-25-000074",
+    "primary_doc": "intc-20250329.htm"
+  },
+  {
+    "ticker": "INTC",
+    "cik": "0000050863",
+    "form": "10-K",
+    "filing_date": "2025-01-31",
+    "report_date": "2024-12-28",
+    "accession": "0000050863-25-000009",
+    "primary_doc": "intc-20241228.htm"
+  },
+  {
+    "ticker": "INTC",
+    "cik": "0000050863",
+    "form": "10-Q",
+    "filing_date": "2024-11-01",
+    "report_date": "2024-09-28",
+    "accession": "0000050863-24-000149",
+    "primary_doc": "intc-20240928.htm"
+  },
+  {
+    "ticker": "INTC",
+    "cik": "0000050863",
+    "form": "10-Q",
+    "filing_date": "2024-08-02",
+    "report_date": "2024-06-29",
+    "accession": "0000050863-24-000124",
+    "primary_doc": "intc-20240629.htm"
+  },
+  {
+    "ticker": "INTC",
+    "cik": "0000050863",
+    "form": "10-Q",
+    "filing_date": "2024-04-26",
+    "report_date": "2024-03-30",
+    "accession": "0000050863-24-000076",
+    "primary_doc": "intc-20240330.htm"
+  },
+  {
+    "ticker": "INTC",
+    "cik": "0000050863",
+    "form": "10-K",
+    "filing_date": "2024-01-26",
+    "report_date": "2023-12-30",
+    "accession": "0000050863-24-000010",
+    "primary_doc": "intc-20231230.htm"
+  },
+  {
+    "ticker": "INTC",
+    "cik": "0000050863",
+    "form": "10-Q",
+    "filing_date": "2023-10-27",
+    "report_date": "2023-09-30",
+    "accession": "0000050863-23-000103",
+    "primary_doc": "intc-20230930.htm"
+  },
+  {
+    "ticker": "INTC",
+    "cik": "0000050863",
+    "form": "10-Q",
+    "filing_date": "2023-07-28",
+    "report_date": "2023-07-01",
+    "accession": "0000050863-23-000069",
+    "primary_doc": "intc-20230701.htm"
+  },
+  {
+    "ticker": "INTC",
+    "cik": "0000050863",
+    "form": "10-Q",
+    "filing_date": "2023-04-28",
+    "report_date": "2023-04-01",
+    "accession": "0000050863-23-000028",
+    "primary_doc": "intc-20230401.htm"
+  },
+  {
+    "ticker": "INTC",
+    "cik": "0000050863",
+    "form": "10-K",
+    "filing_date": "2023-01-27",
+    "report_date": "2022-12-31",
+    "accession": "0000050863-23-000006",
+    "primary_doc": "intc-20221231.htm"
+  },
+  {
+    "ticker": "INTC",
+    "cik": "0000050863",
+    "form": "10-Q",
+    "filing_date": "2022-10-28",
+    "report_date": "2022-10-01",
+    "accession": "0000050863-22-000038",
+    "primary_doc": "intc-20221001.htm"
+  },
+  {
+    "ticker": "INTC",
+    "cik": "0000050863",
+    "form": "10-Q",
+    "filing_date": "2022-07-29",
+    "report_date": "2022-07-02",
+    "accession": "0000050863-22-000030",
+    "primary_doc": "intc-20220702.htm"
+  },
+  {
+    "ticker": "INTC",
+    "cik": "0000050863",
+    "form": "10-Q",
+    "filing_date": "2022-04-29",
+    "report_date": "2022-04-02",
+    "accession": "0000050863-22-000020",
+    "primary_doc": "intc-20220402.htm"
+  },
+  {
+    "ticker": "INTC",
+    "cik": "0000050863",
+    "form": "10-K",
+    "filing_date": "2022-01-27",
+    "report_date": "2021-12-25",
+    "accession": "0000050863-22-000007",
+    "primary_doc": "intc-20211225.htm"
+  },
+  {
+    "ticker": "MSFT",
+    "cik": "0000789019",
+    "form": "10-Q",
+    "filing_date": "2026-10-28",
+    "report_date": "2026-09-30",
+    "accession": "0001193125-26-436133",
+    "primary_doc": "msft-20260930.htm"
+  },
+  {
+    "ticker": "MSFT",
+    "cik": "0000789019",
+    "form": "10-K",
+    "filing_date": "2026-07-29",
+    "report_date": "2026-06-30",
+    "accession": "0001193125-26-323660",
+    "primary_doc": "msft-20260630.htm"
+  },
+  {
+    "ticker": "MSFT",
+    "cik": "0000789019",
+    "form": "10-Q",
+    "filing_date": "2026-04-29",
+    "report_date": "2026-03-31",
+    "accession": "0001193125-26-191507",
+    "primary_doc": "msft-20260331.htm"
+  },
+  {
+    "ticker": "MSFT",
+    "cik": "0000789019",
+    "form": "10-Q",
+    "filing_date": "2026-01-28",
+    "report_date": "2025-12-31",
+    "accession": "0001193125-26-027207",
+    "primary_doc": "msft-20251231.htm"
+  },
+  {
+    "ticker": "MSFT",
+    "cik": "0000789019",
+    "form": "10-Q",
+    "filing_date": "2025-10-29",
+    "report_date": "2025-09-30",
+    "accession": "0001193125-25-256321",
+    "primary_doc": "msft-20250930.htm"
+  },
+  {
+    "ticker": "MSFT",
+    "cik": "0000789019",
+    "form": "10-K",
+    "filing_date": "2025-07-30",
+    "report_date": "2025-06-30",
+    "accession": "0000950170-25-100235",
+    "primary_doc": "msft-20250630.htm"
+  },
+  {
+    "ticker": "MSFT",
+    "cik": "0000789019",
+    "form": "10-Q",
+    "filing_date": "2025-04-30",
+    "report_date": "2025-03-31",
+    "accession": "0000950170-25-061046",
+    "primary_doc": "msft-20250331.htm"
+  },
+  {
+    "ticker": "MSFT",
+    "cik": "0000789019",
+    "form": "10-Q",
+    "filing_date": "2025-01-29",
+    "report_date": "2024-12-31",
+    "accession": "0000950170-25-010491",
+    "primary_doc": "msft-20241231.htm"
+  },
+  {
+    "ticker": "MSFT",
+    "cik": "0000789019",
+    "form": "10-Q",
+    "filing_date": "2024-10-30",
+    "report_date": "2024-09-30",
+    "accession": "0000950170-24-118967",
+    "primary_doc": "msft-20240930.htm"
+  },
+  {
+    "ticker": "MSFT",
+    "cik": "0000789019",
+    "form": "10-K",
+    "filing_date": "2024-07-30",
+    "report_date": "2024-06-30",
+    "accession": "0000950170-24-087843",
+    "primary_doc": "msft-20240630.htm"
+  },
+  {
+    "ticker": "MSFT",
+    "cik": "0000789019",
+    "form": "10-Q",
+    "filing_date": "2024-04-25",
+    "report_date": "2024-03-31",
+    "accession": "0000950170-24-048288",
+    "primary_doc": "msft-20240331.htm"
+  },
+  {
+    "ticker": "MSFT",
+    "cik": "0000789019",
+    "form": "10-Q",
+    "filing_date": "2024-01-30",
+    "report_date": "2023-12-31",
+    "accession": "0000950170-24-008814",
+    "primary_doc": "msft-20231231.htm"
+  },
+  {
+    "ticker": "MSFT",
+    "cik": "0000789019",
+    "form": "10-Q",
+    "filing_date": "2023-10-24",
+    "report_date": "2023-09-30",
+    "accession": "0000950170-23-054855",
+    "primary_doc": "msft-20230930.htm"
+  },
+  {
+    "ticker": "MSFT",
+    "cik": "0000789019",
+    "form": "10-K",
+    "filing_date": "2023-07-27",
+    "report_date": "2023-06-30",
+    "accession": "0000950170-23-035122",
+    "primary_doc": "msft-20230630.htm"
+  },
+  {
+    "ticker": "MSFT",
+    "cik": "0000789019",
+    "form": "10-Q",
+    "filing_date": "2023-04-25",
+    "report_date": "2023-03-31",
+    "accession": "0000950170-23-014423",
+    "primary_doc": "msft-20230331.htm"
+  },
+  {
+    "ticker": "MSFT",
+    "cik": "0000789019",
+    "form": "10-Q",
+    "filing_date": "2023-01-24",
+    "report_date": "2022-12-31",
+    "accession": "0001564590-23-000733",
+    "primary_doc": "msft-10q_20221231.htm"
+  },
+  {
+    "ticker": "MSFT",
+    "cik": "0000789019",
+    "form": "10-Q",
+    "filing_date": "2022-10-25",
+    "report_date": "2022-09-30",
+    "accession": "0001564590-22-035087",
+    "primary_doc": "msft-10q_20220930.htm"
+  },
+  {
+    "ticker": "MSFT",
+    "cik": "0000789019",
+    "form": "10-K",
+    "filing_date": "2022-07-28",
+    "report_date": "2022-06-30",
+    "accession": "0001564590-22-026876",
+    "primary_doc": "msft-10k_20220630.htm"
+  },
+  {
+    "ticker": "MSFT",
+    "cik": "0000789019",
+    "form": "10-Q",
+    "filing_date": "2022-04-26",
+    "report_date": "2022-03-31",
+    "accession": "0001564590-22-015675",
+    "primary_doc": "msft-10q_20220331.htm"
+  },
+  {
+    "ticker": "MSFT",
+    "cik": "0000789019",
+    "form": "10-Q",
+    "filing_date": "2022-01-25",
+    "report_date": "2021-12-31",
+    "accession": "0001564590-22-002324",
+    "primary_doc": "msft-10q_20211231.htm"
+  }
+]
